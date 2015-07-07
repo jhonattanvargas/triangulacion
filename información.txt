@@ -1,0 +1,6 @@
+﻿compilar con la siguiente línea.
+  gcc tri.c -o tri -lallegro -lallegro_primitives -lm
+
+
+ejecutar con la siguiente linea.  
+./tri <in20
